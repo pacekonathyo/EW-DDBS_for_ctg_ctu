@@ -20,4 +20,15 @@ Automated cardiotocography (CTG) interpretation is hampered by extreme class imb
 
 Synthesis is performed in the original input space to preserve clinical interpretability, followed by Tomek‑Link boundary cleaning. The framework is evaluated on two cohorts (UCI CTG and CTU‑UHB) across 15 downstream classifiers with leakage‑controlled cross‑validation.
 
-## 📁 Repository Structure
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.9 or higher
+- TensorFlow 2.20.0
+- Other libraries: numpy, pandas, scikit-learn, imbalanced-learn, xgboost, scikit-posthocs, shap, wfdb, etc.
+
+All dependencies can be installed using the provided `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
