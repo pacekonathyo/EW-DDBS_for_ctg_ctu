@@ -12,7 +12,7 @@ This repository contains the official implementation of the paper:
 
 The proposed framework addresses extreme class imbalance in fetal distress classification by coupling a lightweight 1D‑CNN latent topology guide with a safe‑region weighting mechanism and optional Tomek‑Link cleaning.
 
-## 🔍 Abstract (brief)
+## Abstract (brief)
 
 Automated cardiotocography (CTG) interpretation is hampered by extreme class imbalance (pathological cases <10%). Conventional oversamplers often inject noise into overlapping decision regions. **EW‑DDBS** introduces a hybrid weighting function that combines:
 - Shannon entropy from a 1D‑CNN softmax head (uncertainty),
@@ -20,7 +20,7 @@ Automated cardiotocography (CTG) interpretation is hampered by extreme class imb
 
 Synthesis is performed in the original input space to preserve clinical interpretability, followed by Tomek‑Link boundary cleaning. The framework is evaluated on two cohorts (UCI CTG and CTU‑UHB) across 15 downstream classifiers with leakage‑controlled cross‑validation.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
