@@ -8,7 +8,7 @@ This repository contains the official implementation of the paper:
 
 > **EW-DDBS: Latent-Guided Safe-Region Oversampling with Entropy Weighting for Cardiotocographic Fetal Distress Classification**  
 > *Ahmad Ilham, Catur Supriyanto, Machmudah, Laelatul Khikmah*  
-> Submitted to a Q1 journal (Elsevier)
+> Submitted to a Biomedical Signal Processing and Control (Elsevier)
 
 The proposed framework addresses extreme class imbalance in fetal distress classification by coupling a lightweight 1D‑CNN latent topology guide with a safe‑region weighting mechanism and optional Tomek‑Link cleaning.
 
